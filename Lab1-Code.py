@@ -30,7 +30,7 @@
 # Pythons scientific libraries
 import numpy as np 
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #Nothing is plotted in this lab currently but will add some in future rev
 from sklearn.ensemble import RandomForestClassifier
 # You need this import division for python 2.7 to display percentages correctly
 from __future__ import division
